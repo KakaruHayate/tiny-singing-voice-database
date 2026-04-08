@@ -1,0 +1,116 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0
+xmax = 4.96
+tiers? <exists>
+size = 2
+item []:
+    item [1]:
+        class = "IntervalTier"
+        name = "words"
+        xmin = 0
+        xmax = 4.96
+        intervals: size = 9
+        intervals [1]:
+            xmin = 0
+            xmax = 0.1574
+            text = "SP"
+        intervals [2]:
+            xmin = 0.1574
+            xmax = 0.86123
+            text = "now"
+        intervals [3]:
+            xmin = 0.86123
+            xmax = 1.2948199999999999
+            text = "i"
+        intervals [4]:
+            xmin = 1.2948199999999999
+            xmax = 1.875
+            text = "know"
+        intervals [5]:
+            xmin = 1.875
+            xmax = 2.6000300000000003
+            text = "my"
+        intervals [6]:
+            xmin = 2.6000300000000003
+            xmax = 3.1483000000000003
+            text = "a"
+        intervals [7]:
+            xmin = 3.1483000000000003
+            xmax = 3.62906
+            text = "b"
+        intervals [8]:
+            xmin = 3.62906
+            xmax = 4.53336
+            text = "seas"
+        intervals [9]:
+            xmin = 4.53336
+            xmax = 4.96
+            text = "SP"
+    item [2]:
+        class = "IntervalTier"
+        name = "phones"
+        xmin = 0
+        xmax = 4.96
+        intervals: size = 15
+        intervals [1]:
+            xmin = 0
+            xmax = 0.1574
+            text = "SP"
+        intervals [2]:
+            xmin = 0.1574
+            xmax = 0.25488
+            text = "n"
+        intervals [3]:
+            xmin = 0.25488
+            xmax = 0.86123
+            text = "aw"
+        intervals [4]:
+            xmin = 0.86123
+            xmax = 1.2948199999999999
+            text = "ay"
+        intervals [5]:
+            xmin = 1.2948199999999999
+            xmax = 1.4381
+            text = "n"
+        intervals [6]:
+            xmin = 1.4381
+            xmax = 1.875
+            text = "ow"
+        intervals [7]:
+            xmin = 1.875
+            xmax = 1.9749
+            text = "m"
+        intervals [8]:
+            xmin = 1.9749
+            xmax = 2.6000300000000003
+            text = "ay"
+        intervals [9]:
+            xmin = 2.6000300000000003
+            xmax = 3.1483000000000003
+            text = "ah"
+        intervals [10]:
+            xmin = 3.1483000000000003
+            xmax = 3.18639
+            text = "b"
+        intervals [11]:
+            xmin = 3.18639
+            xmax = 3.62906
+            text = "iy"
+        intervals [12]:
+            xmin = 3.62906
+            xmax = 3.80279
+            text = "s"
+        intervals [13]:
+            xmin = 3.80279
+            xmax = 4.3873
+            text = "iy"
+        intervals [14]:
+            xmin = 4.3873
+            xmax = 4.53336
+            text = "z"
+        intervals [15]:
+            xmin = 4.53336
+            xmax = 4.96
+            text = "SP"
