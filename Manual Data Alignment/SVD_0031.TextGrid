@@ -50,10 +50,10 @@ item []:
             text = "like"
         intervals [10]:
             xmin = 6.01497
-            xmax = 6.4231300000000005
+            xmax = 6.556916
             text = "a"
         intervals [11]:
-            xmin = 6.4231300000000005
+            xmin = 6.556916
             xmax = 7.8829899999999995
             text = "diamond"
         intervals [12]:
@@ -77,7 +77,7 @@ item []:
         name = "phones"
         xmin = 0
         xmax = 10.12576
-        intervals: size = 36
+        intervals: size = 37
         intervals [1]:
             xmin = 0
             xmax = 0.38231
@@ -164,61 +164,65 @@ item []:
             text = "k"
         intervals [22]:
             xmin = 6.01497
-            xmax = 6.4231300000000005
-            text = "ah"
+            xmax = 6.425397
+            text = "ae"
         intervals [23]:
-            xmin = 6.4231300000000005
+            xmin = 6.425397
+            xmax = 6.556916
+            text = "n"
+        intervals [24]:
+            xmin = 6.556916
             xmax = 6.5986400000000005
             text = "d"
-        intervals [24]:
+        intervals [25]:
             xmin = 6.5986400000000005
             xmax = 7.1932
             text = "ay"
-        intervals [25]:
+        intervals [26]:
             xmin = 7.1932
             xmax = 7.29388
             text = "m"
-        intervals [26]:
+        intervals [27]:
             xmin = 7.29388
             xmax = 7.669689999999999
             text = "ah"
-        intervals [27]:
+        intervals [28]:
             xmin = 7.669689999999999
             xmax = 7.825
             text = "n"
-        intervals [28]:
+        intervals [29]:
             xmin = 7.825
             xmax = 7.8829899999999995
             text = "d"
-        intervals [29]:
+        intervals [30]:
             xmin = 7.8829899999999995
             xmax = 8.285620000000002
             text = "ih"
-        intervals [30]:
+        intervals [31]:
             xmin = 8.285620000000002
             xmax = 8.45
             text = "n"
-        intervals [31]:
+        intervals [32]:
             xmin = 8.45
             xmax = 8.53369
             text = "dh"
-        intervals [32]:
+        intervals [33]:
             xmin = 8.53369
             xmax = 8.850340000000001
             text = "ah"
-        intervals [33]:
+        intervals [34]:
             xmin = 8.850340000000001
             xmax = 9.039459999999998
             text = "s"
-        intervals [34]:
+        intervals [35]:
             xmin = 9.039459999999998
             xmax = 9.11565
             text = "k"
-        intervals [35]:
+        intervals [36]:
             xmin = 9.11565
             xmax = 9.78
             text = "ay"
-        intervals [36]:
+        intervals [37]:
             xmin = 9.78
             xmax = 10.12576
             text = "AP"

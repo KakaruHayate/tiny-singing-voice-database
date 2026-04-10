@@ -54,10 +54,10 @@ item []:
             text = "spine"
         intervals [11]:
             xmin = 4.4612245999999995
-            xmax = 4.8244897
+            xmax = 4.839909
             text = "with"
         intervals [12]:
-            xmin = 4.8244897
+            xmin = 4.839909
             xmax = 4.97726
             text = "a"
         intervals [13]:
@@ -192,14 +192,14 @@ item []:
             text = "w"
         intervals [24]:
             xmin = 4.55966
-            xmax = 4.677350000000001
+            xmax = 4.677349599999999
             text = "ih"
         intervals [25]:
-            xmin = 4.677350000000001
-            xmax = 4.8244897
+            xmin = 4.677349599999999
+            xmax = 4.839909
             text = "dh"
         intervals [26]:
-            xmin = 4.8244897
+            xmin = 4.839909
             xmax = 4.97726
             text = "ax"
         intervals [27]:

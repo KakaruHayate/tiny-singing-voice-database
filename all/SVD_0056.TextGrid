@@ -59,17 +59,17 @@ item []:
         intervals [12]:
             xmin = 3.4625850000000002
             xmax = 3.6802397
-            text = "a"
+            text = "an"
         intervals [13]:
             xmin = 3.6802397
             xmax = 4.0258503
             text = "dog"
         intervals [14]:
             xmin = 4.0258503
-            xmax = 4.171428700000001
+            xmax = 4.240363
             text = "a"
         intervals [15]:
-            xmin = 4.171428700000001
+            xmin = 4.240363
             xmax = 4.89
             text = "bone"
         intervals [16]:
@@ -81,7 +81,7 @@ item []:
         name = "phones"
         xmin = 0
         xmax = 5.30771
-        intervals: size = 33
+        intervals: size = 35
         intervals [1]:
             xmin = 0
             xmax = 0.14557823
@@ -97,7 +97,7 @@ item []:
         intervals [4]:
             xmin = 0.38639456
             xmax = 0.518927
-            text = "ax"
+            text = "ah"
         intervals [5]:
             xmin = 0.518927
             xmax = 0.71940894
@@ -180,37 +180,45 @@ item []:
             text = "v"
         intervals [25]:
             xmin = 3.4625850000000002
-            xmax = 3.6802397
-            text = "ax"
+            xmax = 3.6235828000000003
+            text = "ae"
         intervals [26]:
+            xmin = 3.6235828000000003
+            xmax = 3.6802397
+            text = "n"
+        intervals [27]:
             xmin = 3.6802397
             xmax = 3.740136
             text = "d"
-        intervals [27]:
+        intervals [28]:
             xmin = 3.740136
             xmax = 3.9581296000000004
             text = "ao"
-        intervals [28]:
+        intervals [29]:
             xmin = 3.9581296000000004
             xmax = 4.0258503
             text = "g"
-        intervals [29]:
-            xmin = 4.0258503
-            xmax = 4.171428700000001
-            text = "ax"
         intervals [30]:
-            xmin = 4.171428700000001
+            xmin = 4.0258503
+            xmax = 4.1696147
+            text = "ax"
+        intervals [31]:
+            xmin = 4.1696147
+            xmax = 4.240363
+            text = "m"
+        intervals [32]:
+            xmin = 4.240363
             xmax = 4.317006999999999
             text = "b"
-        intervals [31]:
+        intervals [33]:
             xmin = 4.317006999999999
             xmax = 4.669387700000001
             text = "ow"
-        intervals [32]:
+        intervals [34]:
             xmin = 4.669387700000001
             xmax = 4.89
             text = "n"
-        intervals [33]:
+        intervals [35]:
             xmin = 4.89
             xmax = 5.30771
             text = "AP"

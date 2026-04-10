@@ -38,10 +38,10 @@ item []:
             text = "broad"
         intervals [7]:
             xmin = 3.1184297
-            xmax = 3.74966
+            xmax = 3.4789116
             text = "mary"
         intervals [8]:
-            xmin = 3.74966
+            xmin = 3.4789116
             xmax = 3.74966
             text = "AP"
         intervals [9]:

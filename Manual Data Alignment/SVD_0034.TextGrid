@@ -61,7 +61,7 @@ item []:
         name = "phones"
         xmin = 0
         xmax = 4.56229
-        intervals: size = 24
+        intervals: size = 23
         intervals [1]:
             xmin = 0
             xmax = 0.3034
@@ -124,37 +124,33 @@ item []:
             text = "SP"
         intervals [16]:
             xmin = 2.8898
-            xmax = 3.18364
+            xmax = 3.18564
             text = "aa"
         intervals [17]:
-            xmin = 3.18364
-            xmax = 3.18564
-            text = ""
-        intervals [18]:
             xmin = 3.18564
             xmax = 3.4
             text = "n"
-        intervals [19]:
+        intervals [18]:
             xmin = 3.4
             xmax = 3.47075
             text = "m"
-        intervals [20]:
+        intervals [19]:
             xmin = 3.47075
             xmax = 3.85155
             text = "ay"
-        intervals [21]:
+        intervals [20]:
             xmin = 3.85155
             xmax = 4.07891
             text = "th"
-        intervals [22]:
+        intervals [21]:
             xmin = 4.07891
             xmax = 4.27517
             text = "ah"
-        intervals [23]:
+        intervals [22]:
             xmin = 4.27517
             xmax = 4.390479999999999
             text = "m"
-        intervals [24]:
+        intervals [23]:
             xmin = 4.390479999999999
             xmax = 4.56229
             text = "AP"
